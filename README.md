@@ -28,8 +28,8 @@ Retrieval-Augmented Generation (RAG) performance allows for an improved likeliho
 model hallucinations and generating more accurate responses compared to basic LLM querying alone.
 
 ## Project Paper
-Here is a link to our paper covering an overview of the project background, methods, and results:
-https://github.com/jameshopham/Graph-RAG-LLM-Research-Consultant/blob/main/Graph%20Rag%20Project%20Write-Up.pdf
+[Link](https://github.com/Solanki-Raja/Graph-RAG-LLM-Research-Consultant/blob/main/Graph%20Rag%20Project%20Write-Up.pdf) to our paper covering an overview of the project background, methods, and results:
+
 
 ### Built With
 
@@ -43,14 +43,14 @@ This project was built with the following technologies:
 ## Setup
 Here are some specific links that may be helpful.
 
-LlamaIndex: https://docs.llamaindex.ai/en/latest/module_guides/indexing/lpg_index_guide/ <br/>
-Mistral AI: https://docs.mistral.ai/guides/rag/ <br/>
+[LlamaIndex](https://docs.llamaindex.ai/en/latest/module_guides/indexing/lpg_index_guide/ <br/>
+[Mistral AI] (https://docs.mistral.ai/guides/rag/) <br/>
 
 ## Data
 The data comes from a compiled database of 58,067 biomedical articles/research papers.
 
-Here is a link to the dataset: 
-https://github.com/jameshopham/Datasets/blob/main/Combined_Clinical_Trials_Articles.csv 
+[click Here](https://github.com/jameshopham/Datasets/blob/main/Combined_Clinical_Trials_Articles.csv ) to download the Dataset: 
+
 
 
 ## Contact
