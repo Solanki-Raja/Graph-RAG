@@ -42,7 +42,6 @@ This project was built with the following technologies:
 
 ## Setup
 Here are some specific links that may be helpful.
-
 [LlamaIndex](https://docs.llamaindex.ai/en/latest/module_guides/indexing/lpg_index_guide/)
 [Mistral AI](https://docs.mistral.ai/guides/rag/)
 
