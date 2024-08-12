@@ -61,15 +61,16 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 
 <div class="container">
-  <div>
-    <img src="./Images/1706388570200.jpeg" alt="James Hopham">
-    <br>
-    <a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a>
-  </div>
+  
   <div>
     <img src="./Images/1718304683335.jpeg" alt="Raja Solanki">
     <br>
     <a href="https://www.linkedin.com/in/solankiraja/" target="_blank">Raja Solanki</a>
+  </div>
+  <div>
+    <img src="./Images/1706388570200.jpeg" alt="James Hopham">
+    <br>
+    <a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a>
   </div>
 </div>
 
