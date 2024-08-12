@@ -1,5 +1,3 @@
-# Graph-RAG
-
 # Graph RAG LLM Research Consultant
 <div align="center">
 <img src="./Images/Figure 1. Node Generation.png" width="50%"/>
