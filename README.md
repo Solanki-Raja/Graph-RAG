@@ -1,4 +1,4 @@
-# Graph RAG LLM Research Consultant
+# Intro
 <div align="center">
 <img src="./Images/Figure 1. Node Generation.png" width="50%"/>
 <br/>
